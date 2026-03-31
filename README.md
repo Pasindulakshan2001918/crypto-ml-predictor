@@ -19,16 +19,16 @@ The main goal is to provide a **user-friendly interface** for predicting cryptoc
 ## 🖼️ App Screenshots
 
 **1. Home / Dashboard Screen**  
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 **2. Data Upload & Selection Screen**  
-![Data Upload](screenshots/data_upload.png)
+![Data Upload](screenshots/data_upload.png.png)
 
 **3. Model Prediction Screen**  
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshots/prediction.png.png)
 
 **4. Evaluation & Metrics Screen**  
-![Evaluation](screenshots/evaluation.png)
+![Evaluation](screenshots/evaluation.png.png)
 
 
 
