@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Optional: ignore large raw data
+data/raw/*.csv
+
